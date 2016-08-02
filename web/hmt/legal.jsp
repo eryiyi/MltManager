@@ -8,10 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="../img/icon.png" type="image/png"/>
     <meta name="renderer" content="webkit">
-    <title>苗联通|法律声明</title>
-    <meta name="keywords" content="苗联通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
+    <title>苗连通|法律声明</title>
+    <meta name="keywords" content="苗连通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
     <meta name="Description"
-          content=" 苗联通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
+          content=" 苗连通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
 
     <link rel="stylesheet" href="../hmt/css/help/base.css"/>
     <link rel="stylesheet" href="../hmt/css/help/common.css"/>
@@ -39,7 +39,7 @@
         <ul class="top-login fl">
 
             <ul class="fl">
-                <li class="label orange">您好，欢迎来到苗联通信息平台</li>
+                <li class="label orange">您好，欢迎来到苗连通信息平台</li>
                 <%--<li class="label p-login">--%>
                 <%--<a title="马上登录，享受更多会员专享服务" href="javascript:void(0)" onclick="login()"--%>
                 <%--rel="nofollow">请登录</a>--%>
@@ -53,31 +53,31 @@
         <ul class="top-nav fr">
             <li id="hn_home_id">
                 <div class="label">
-                    <a href="/hmtIndex/toIndex.do?page=1">苗联通求购信息</a></div>
+                    <a href="/hmtIndex/toIndex.do?page=1">苗连通求购信息</a></div>
             </li>
 
             <li class="dropdown">
                 <div class="dropdown-label">
                     <i>&nbsp;</i><span><a href="javaScript:void(0)" target="_blank"
-                                          rel="nofollow">手机苗联通</a></span></div>
+                                          rel="nofollow">手机苗连通</a></span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗联通">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗连通">
 
                         <p>
-                            <span>扫一扫下载</span><span>手机苗联通App</span></p>
+                            <span>扫一扫下载</span><span>手机苗连通App</span></p>
                     </div>
                 </div>
             </li>
             <li class="dropdown">
                 <div class="dropdown-label">
-                    <i>&nbsp;</i><span>关注苗联通</span></div>
+                    <i>&nbsp;</i><span>关注苗连通</span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗联通官方微信">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗连通官方微信">
 
                         <p>
-                            <span>扫码关注</span><span>苗联通官方微信</span></p>
+                            <span>扫码关注</span><span>苗连通官方微信</span></p>
                     </div>
                 </div>
             </li>
@@ -96,7 +96,7 @@
 <!--头部 导航-->
 <div class="type-head">
     <h1 class="logo">
-        <a href="/hmtIndex/toIndex.do?page=1&mm_msg_type=0" title="苗联通信息平台"></a>
+        <a href="/hmtIndex/toIndex.do?page=1&mm_msg_type=0" title="苗连通信息平台"></a>
     </h1>
 </div>
 
@@ -116,7 +116,7 @@
 <!--wrap-->
 <div id="wrapper">
     <div class="leftbox">
-        <div class="leftbox_head">苗联通信息平台</div>
+        <div class="leftbox_head">苗连通信息平台</div>
         <ul class="leftmenu">
             <li><a href="/netAboutUsController/toLegal.do">法律声明</a></li>
             <li><a href="/netAboutUsController/toLink.do">友情链接</a></li>
@@ -133,13 +133,13 @@
                     <li class="exp-content-list list-item-1">
                         <div class="list-icon" style="visibility: visible;">1</div>
                         <div class="content-list-text">
-                            <p><strong>苗联通信息平台法律声明</strong></p>
+                            <p><strong>苗连通信息平台法律声明</strong></p>
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="mt5 t2em"> 使用本网站前，请您仔细阅读下述条款。如您不同意本服务条款或苗联通信息平台对其进行的修改，您可以主动取消苗联通信息平台
-                                    提供的服务；您一旦使用苗联通信息平台提供的服务，即视为您已了解并完全同意本服务条款各项内容，包括苗联通信息平台对服务条款
-                                    所做的任何修改，并成为苗联通信息平台的用户（以下简称“用户”）。 </p>
+                                <p class="mt5 t2em"> 使用本网站前，请您仔细阅读下述条款。如您不同意本服务条款或苗连通信息平台对其进行的修改，您可以主动取消苗连通信息平台
+                                    提供的服务；您一旦使用苗连通信息平台提供的服务，即视为您已了解并完全同意本服务条款各项内容，包括苗连通信息平台对服务条款
+                                    所做的任何修改，并成为苗连通信息平台的用户（以下简称“用户”）。 </p>
                             </div>
                         </div>
                     </li>
@@ -197,21 +197,21 @@
 
                                 <p class="mt10">（6）会员注册名、密码和保密</p>
 
-                                <p class="mt5 t2em">在您按照注册页面提示填写信息、阅读并同意本协议并完成全部注册程序后或以其他苗联通信息平台允许的方式实际使用中国惠
-                                    农网网站服务时，您即成为苗联通信息平台会员（亦称会员），苗联通信息平台根据会员注册名和密码确认您的身份。您须自行负责对您的
+                                <p class="mt5 t2em">在您按照注册页面提示填写信息、阅读并同意本协议并完成全部注册程序后或以其他苗连通信息平台允许的方式实际使用中国惠
+                                    农网网站服务时，您即成为苗连通信息平台会员（亦称会员），苗连通信息平台根据会员注册名和密码确认您的身份。您须自行负责对您的
                                     会员注册名和密码保密，且须对您在会员注册名和密码下发生的所有活动（包括但不限于发布信息资料、网上点击同意或提交各类
                                     规则协议、网上续签协议或购买服务等）承担责任。您同意：(a) 如发现任何人未经授权使用您的会员注册名或密码，或发生违反
-                                    保密规定的任何其他情况，您会立即通知苗联通信息平台；及 (b) 确保您在每个上网时段结束时，以正确步骤离开网站。苗联通信息平台
-                                    不能也不会对因您未能遵守本款规定而发生的任何损失或损毁负责。您理解苗联通信息平台对您的请求采取行动需要合理时间，中国
-                                    苗联通网对在采取行动前已经产生的后果（包括但不限于您的任何损失）不承担任何责任。</p>
+                                    保密规定的任何其他情况，您会立即通知苗连通信息平台；及 (b) 确保您在每个上网时段结束时，以正确步骤离开网站。苗连通信息平台
+                                    不能也不会对因您未能遵守本款规定而发生的任何损失或损毁负责。您理解苗连通信息平台对您的请求采取行动需要合理时间，中国
+                                    苗连通网对在采取行动前已经产生的后果（包括但不限于您的任何损失）不承担任何责任。</p>
 
                                 <p class="mt10">（7）处理交易争议</p>
 
-                                <p class="mt10 t2em"> 苗联通信息平台不涉及用户间因交易而产生的法律关系及法律纠纷，不会且不能牵涉进交易各方的交易当中。倘若您与一名或一名
-                                    以上用户，或与您通过本公司网站获取其服务的第三者服务供应商发生争议，您免除苗联通信息平台 (及本公司代理人和雇员) 在因
+                                <p class="mt10 t2em"> 苗连通信息平台不涉及用户间因交易而产生的法律关系及法律纠纷，不会且不能牵涉进交易各方的交易当中。倘若您与一名或一名
+                                    以上用户，或与您通过本公司网站获取其服务的第三者服务供应商发生争议，您免除苗连通信息平台 (及本公司代理人和雇员) 在因
                                     该等争议而引起的，或在任何方面与该等争议有关的不同种类和性质的任何(实际和后果性的) 权利主张、要求和损害赔偿等方面 的责任。</p>
 
-                                <p class="mt10">（8）苗联通信息平台网站仅作为交易地点</p>
+                                <p class="mt10">（8）苗连通信息平台网站仅作为交易地点</p>
 
                                 <p class="mt10 t2em"> 本公司网站仅作为用户物色交易对象，就货物和服务的交易进行协商，以及获取各类与贸易相关的服务的地点。但是，本公司
                                     不能控制交易所涉及的物品的质量、安全或合法性，商贸信息的真实性或准确性，以及交易方履行其在贸易协议项下的各项义务的
@@ -241,7 +241,7 @@
 
                                 <p class="mt10">（4）用户应了解：本网站可能会应法律之要求公开个人资料，或者因善意确信这样的作法对于下列各项有其 必要性：</p>
 
-                                <p class="mt10 pl20">（i）符合法律公告或遵守适用于苗联通信息平台的合法程序；</p>
+                                <p class="mt10 pl20">（i）符合法律公告或遵守适用于苗连通信息平台的合法程序；</p>
 
                                 <p class="mt10 pl20">（ii）保护本网站用户的权利或财产；</p>
 
@@ -284,7 +284,7 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">苗联通信息平台上的链接服务可以直接进入其他站点，这些链接的站点不受苗联通信息平台的控制，苗联通信息平台对任何与本站链接网站
+                                <p class="t2em">苗连通信息平台上的链接服务可以直接进入其他站点，这些链接的站点不受苗连通信息平台的控制，苗连通信息平台对任何与本站链接网站
                                     的内容不负责任。</p>
 
                             </div>
@@ -325,7 +325,7 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">苗联通信息平台由山东惠民县茹园科技服务有限公司运营和控制，适用中华人民共和国法律。我们保留随时更改我们的网站和上述免责及 条款的权利。</p>
+                                <p class="t2em">苗连通信息平台由山东惠民县茹园科技服务有限公司运营和控制，适用中华人民共和国法律。我们保留随时更改我们的网站和上述免责及 条款的权利。</p>
                             </div>
                         </div>
                         <div class="last-item"><span class="last-item-end">END</span></div>

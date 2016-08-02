@@ -19,12 +19,12 @@
 
         <div class="col-md-4 col-sm-6">
             <a href="http://www.zhlmlt.cn" class="cat-item bg-red" target="_blank">
-                <span>苗联通网页</span>
+                <span>苗连通网页</span>
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
             <a href="http://www.zhlmlt.cn/html/download.html" class="cat-item bg-green" target="_blank">
-                <span>苗联通下载</span>
+                <span>苗连通下载</span>
             </a>
         </div>
     </div>

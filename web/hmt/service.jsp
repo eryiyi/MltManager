@@ -8,10 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="../img/icon.png" type="image/png"/>
     <meta name="renderer" content="webkit">
-    <title>苗联通|服务中心</title>
-    <meta name="keywords" content="苗联通,惠民,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木,花草,苗联通,白蜡,园林,惠民皂户李镇,苗木协会">
+    <title>苗连通|服务中心</title>
+    <meta name="keywords" content="苗连通,惠民,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木,花草,苗连通,白蜡,园林,惠民皂户李镇,苗木协会">
     <meta name="Description"
-          content=" 苗联通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
+          content=" 苗连通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
     <link href="../hmt/css/common/index-type.css" rel="stylesheet" type="text/css"/>
     <link href="../hmt/css/common/common.css" rel="stylesheet" type="text/css"/>
     <link href="../hmt/css/common/base.css" rel="stylesheet" type="text/css"/>
@@ -98,7 +98,7 @@
             </c:if>
 
             <ul class="fl">
-                <li class="label orange">您好，欢迎来到苗联通信息平台</li>
+                <li class="label orange">您好，欢迎来到苗连通信息平台</li>
                 <c:if test="${is_login=='0'}">
                     <li class="label p-login">
                         <a title="马上登录，享受更多会员专享服务" href="javascript:void(0)" onclick="login()"
@@ -114,7 +114,7 @@
         <ul class="top-nav fr">
             <li id="hn_home_id">
                 <div class="label">
-                    <a href="index.htm">苗联通求购信息</a></div>
+                    <a href="index.htm">苗连通求购信息</a></div>
             </li>
 
             <c:if test="${is_login=='1'}">
@@ -128,25 +128,25 @@
             <li class="dropdown">
                 <div class="dropdown-label">
                     <i>&nbsp;</i><span><a href="javaScript:void(0)" target="_blank"
-                                          rel="nofollow">手机苗联通</a></span></div>
+                                          rel="nofollow">手机苗连通</a></span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗联通">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗连通">
 
                         <p>
-                            <span>扫一扫下载</span><span>手机苗联通App</span></p>
+                            <span>扫一扫下载</span><span>手机苗连通App</span></p>
                     </div>
                 </div>
             </li>
             <li class="dropdown">
                 <div class="dropdown-label">
-                    <i>&nbsp;</i><span>关注苗联通</span></div>
+                    <i>&nbsp;</i><span>关注苗连通</span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗联通官方微信">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗连通官方微信">
 
                         <p>
-                            <span>扫码关注</span><span>苗联通官方微信</span></p>
+                            <span>扫码关注</span><span>苗连通官方微信</span></p>
                     </div>
                 </div>
             </li>
@@ -165,7 +165,7 @@
 <!--头部 导航-->
 <div class="type-head">
     <h1 class="logo">
-        <a href="index.htm" title="苗联通信息平台"></a>
+        <a href="index.htm" title="苗连通信息平台"></a>
     </h1>
 
     <div class="search">

@@ -8,10 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="../img/icon.png" type="image/png"/>
     <meta name="renderer" content="webkit">
-    <title>苗联通|版权隐私</title>
-    <meta name="keywords" content="苗联通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
+    <title>苗连通|版权隐私</title>
+    <meta name="keywords" content="苗连通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
     <meta name="Description"
-          content=" 苗联通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
+          content=" 苗连通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
 
     <link rel="stylesheet" href="../hmt/css/help/base.css"/>
     <link rel="stylesheet" href="../hmt/css/help/common.css"/>
@@ -42,7 +42,7 @@
         <ul class="top-login fl">
 
             <ul class="fl">
-                <li class="label orange">您好，欢迎来到苗联通信息平台</li>
+                <li class="label orange">您好，欢迎来到苗连通信息平台</li>
                 <%--<li class="label p-login">--%>
                 <%--<a title="马上登录，享受更多会员专享服务" href="javascript:void(0)" onclick="login()"--%>
                 <%--rel="nofollow">请登录</a>--%>
@@ -56,31 +56,31 @@
         <ul class="top-nav fr">
             <li id="hn_home_id">
                 <div class="label">
-                    <a href="/hmtIndex/toIndex.do?page=1">苗联通求购信息</a></div>
+                    <a href="/hmtIndex/toIndex.do?page=1">苗连通求购信息</a></div>
             </li>
 
             <li class="dropdown">
                 <div class="dropdown-label">
                     <i>&nbsp;</i><span><a href="javaScript:void(0)" target="_blank"
-                                          rel="nofollow">手机苗联通</a></span></div>
+                                          rel="nofollow">手机苗连通</a></span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗联通">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗连通">
 
                         <p>
-                            <span>扫一扫下载</span><span>手机苗联通App</span></p>
+                            <span>扫一扫下载</span><span>手机苗连通App</span></p>
                     </div>
                 </div>
             </li>
             <li class="dropdown">
                 <div class="dropdown-label">
-                    <i>&nbsp;</i><span>关注苗联通</span></div>
+                    <i>&nbsp;</i><span>关注苗连通</span></div>
                 <div class="dropdown-layer dd-hn-qrcode">
                     <div class="qrcode">
-                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗联通官方微信">
+                        <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗连通官方微信">
 
                         <p>
-                            <span>扫码关注</span><span>苗联通官方微信</span></p>
+                            <span>扫码关注</span><span>苗连通官方微信</span></p>
                     </div>
                 </div>
             </li>
@@ -99,7 +99,7 @@
 <!--头部 导航-->
 <div class="type-head">
     <h1 class="logo">
-        <a href="/hmtIndex/toIndex.do?page=1&mm_msg_type=0" title="苗联通信息平台"></a>
+        <a href="/hmtIndex/toIndex.do?page=1&mm_msg_type=0" title="苗连通信息平台"></a>
     </h1>
 </div>
 
@@ -120,7 +120,7 @@
 <!--wrap-->
 <div id="wrapper">
     <div class="leftbox">
-        <div class="leftbox_head">苗联通信息平台</div>
+        <div class="leftbox_head">苗连通信息平台</div>
         <ul class="leftmenu">
             <li><a href="/netAboutUsController/toLegal.do">法律声明</a></li>
             <li><a href="/netAboutUsController/toLink.do">友情链接</a></li>
@@ -133,10 +133,10 @@
         <div class="rightbox_head"><i class="bg"></i>隐私版权</div>
         <div class="exp-content format-exp" id="format-exp">
             <div class="exp-content-body">
-                <p class="mt20 t2em" style="padding-left:10px">欢迎访问苗联通信息平台！我们以本隐私声明声明对访问者隐私保护的许诺。以下文字公开我站对信息收集和使用的
+                <p class="mt20 t2em" style="padding-left:10px">欢迎访问苗连通信息平台！我们以本隐私声明声明对访问者隐私保护的许诺。以下文字公开我站对信息收集和使用的
                     情况。本站的隐私声明正在不断改进中，随着我站服务范围的扩大，我们会随时更新我们的隐私声明。我们欢迎您随时回来查看本声明。并反馈您的意见。</p>
 
-                <p class="mt10 t2em">在同意苗联通信息平台服务协议（“协议”）之时，您已经同意我们按照本隐私声明来使用和披露您的个人信息。本隐私声明的全部 条款属于该协议的一部份。</p>
+                <p class="mt10 t2em">在同意苗连通信息平台服务协议（“协议”）之时，您已经同意我们按照本隐私声明来使用和披露您的个人信息。本隐私声明的全部 条款属于该协议的一部份。</p>
                 <ol class="exp-conent-orderlist">
                     <li class="exp-content-list list-item-1">
                         <div class="list-icon" style="visibility: visible;">1</div>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">苗联通信息平台有可能自动接收并记录您的浏览器和计算机上的信息，其中包括您的 IP 地址，苗联通信息平台cookie 中的信息、软硬件
+                                <p class="t2em">苗连通信息平台有可能自动接收并记录您的浏览器和计算机上的信息，其中包括您的 IP 地址，苗连通信息平台cookie 中的信息、软硬件
                                     特征信息、以及您需求的网页记录。</p>
                             </div>
                         </div>
@@ -223,10 +223,10 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">我们不会向任何无关第三方提供，出售，出租，分享和交易用户的个人信息，但为方便您使用苗联通信息平台服务及苗联通信息平台关联
-                                    公司或其他组织的服务（以下称其 他服务），您同意并授权苗联通信息平台将您的个人信息传递给您同时接受其他服务的苗联通信息平台
-                                    关联公司或其他组织，或从为您提供其他服务的苗联通信息平台关联公司或其他组 织获取您的个人信息。
-                                    我们会对您及（或）您的公司的身份和交易数据进行综合统计，并以苗联通信息平台判断合理的目的和用途将该综合统计向广告主披露。
+                                <p class="t2em">我们不会向任何无关第三方提供，出售，出租，分享和交易用户的个人信息，但为方便您使用苗连通信息平台服务及苗连通信息平台关联
+                                    公司或其他组织的服务（以下称其 他服务），您同意并授权苗连通信息平台将您的个人信息传递给您同时接受其他服务的苗连通信息平台
+                                    关联公司或其他组织，或从为您提供其他服务的苗连通信息平台关联公司或其他组 织获取您的个人信息。
+                                    我们会对您及（或）您的公司的身份和交易数据进行综合统计，并以苗连通信息平台判断合理的目的和用途将该综合统计向广告主披露。
                                     但是，在这些情况下，我们不会向这些机构披露任何可能用以识别用户的个人身份的资料，但从用户的用户名或其它可披露资料分析得出的资料不受此限。</p>
 
                                 <p class="t2em">您同意我们可批露或使用您的个人信息以用于识别和（或）确认您的身份，或解决争议，或有助于确保网站安全、限制欺诈、非法
@@ -240,7 +240,7 @@
 
                                 <p class="t2em">我们的网站公布了用户提交的商业机会和报价，而其他用户可以查询这些报价和商业机会。
                                     当我们被法律强制或依照政府或依权利人因识别涉嫌侵权行为人的要求而提供您的信息时，我们将善意地披露您的资料。 信息的存储和交换
-                                    所收集的用户信息和资料将保存在苗联通信息平台及（或）其关联公司的服务器上。</p>
+                                    所收集的用户信息和资料将保存在苗连通信息平台及（或）其关联公司的服务器上。</p>
                             </div>
                         </div>
                     </li>
@@ -251,7 +251,7 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">本站含有到其他网站的链接。苗联通信息平台对那些网站的隐私保护措施不负任何责任。我们可能在任何需要的时候增加商业伙伴或 共用品牌的网站。</p>
+                                <p class="t2em">本站含有到其他网站的链接。苗连通信息平台对那些网站的隐私保护措施不负任何责任。我们可能在任何需要的时候增加商业伙伴或 共用品牌的网站。</p>
                             </div>
                         </div>
                     </li>
@@ -286,7 +286,7 @@
                         </div>
                         <div class="content-list-media">
                             <div class="content-list-image clearfix">
-                                <p class="t2em">如果您对本隐私声明或苗联通信息平台的隐私保护措施以及您在使用中的问题有任何意见和建议请和我们联系。</p>
+                                <p class="t2em">如果您对本隐私声明或苗连通信息平台的隐私保护措施以及您在使用中的问题有任何意见和建议请和我们联系。</p>
                             </div>
                         </div>
                         <div class="last-item"><span class="last-item-end">END</span></div>

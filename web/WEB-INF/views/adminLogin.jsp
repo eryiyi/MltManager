@@ -3,7 +3,7 @@
 <html lang="zh_CH">
 <head>
     <meta charset="utf-8">
-    <title>苗联通后台登陆</title>
+    <title>苗连通后台登陆</title>
     <meta name="description" content="description">
     <meta name="author" content="Evgeniya">
     <meta name="keyword" content="keywords">
@@ -28,7 +28,7 @@
     <%--<div class="box">--%>
     <%--<div class="box-content">--%>
     <%--<div class="text-center">--%>
-    <%--<h3 class="page-header">苗联通后台登陆</h3>--%>
+    <%--<h3 class="page-header">苗连通后台登陆</h3>--%>
     <%--</div>--%>
     <%--<div class="form-group">--%>
     <%--<label class="control-label">用户名</label>--%>
@@ -81,7 +81,7 @@
                 <form>
                 <div class="box-content">
                     <div class="text-center">
-                        <h3>苗联通后台登陆</h3>
+                        <h3>苗连通后台登陆</h3>
                     </div>
                     <div class="space"></div>
                     <div class="form-group">

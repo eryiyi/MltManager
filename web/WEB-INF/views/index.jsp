@@ -5,7 +5,7 @@
 <html lang="zh_CH">
 <head>
     <meta charset="utf-8">
-    <title>苗联通后台管理系统</title>
+    <title>苗连通后台管理系统</title>
     <meta name="description" content="description">
     <meta name="author" content="DevOOPS">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -90,7 +90,7 @@
 <header class="navbar">
     <div class="container-fluid expanded-panel">
         <div class="row">
-            <div id="logo" class="col-xs-8 col-sm-5"><a href="javascript:void(0);">苗联通后台管理系统</a></div>
+            <div id="logo" class="col-xs-8 col-sm-5"><a href="javascript:void(0);">苗连通后台管理系统</a></div>
             <div id="top-panel" class="col-xs-4 col-sm-7">
                 <div class="row">
                     <%--<div class="col-xs-8 col-sm-4"> <div id="search"> <input type="text" placeholder="search"/> <i class="fa fa-search"></i> </div> </div>--%>

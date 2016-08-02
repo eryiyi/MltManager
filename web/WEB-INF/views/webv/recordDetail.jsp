@@ -6,12 +6,12 @@
 <head>
     <meta charset="utf-8">
     <title>${recordVO.mm_emp_nickname}${recordVO.mm_msg_content}</title>
-    <meta name="Keywords" content="苗联通,花木,花草,苗联通,白蜡,园林,惠民皂户李镇,苗木协会"/>
-    <meta name="Description" content="苗联通是最优秀的花木信息软件，为客户提供最优质的服务"/>
-    <meta property="og:title" content="苗联通_详细信息"/>
-    <meta property="og:description" content="苗联通_详细信息"/>
-    <meta name="author" content="苗联通"/>
-    <meta name="Copyright" content="苗联通版权所有"/>
+    <meta name="Keywords" content="苗连通,花木,花草,苗连通,白蜡,园林,惠民皂户李镇,苗木协会"/>
+    <meta name="Description" content="苗连通是最优秀的花木信息软件，为客户提供最优质的服务"/>
+    <meta property="og:title" content="苗连通_详细信息"/>
+    <meta property="og:description" content="苗连通_详细信息"/>
+    <meta name="author" content="苗连通"/>
+    <meta name="Copyright" content="苗连通版权所有"/>
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/img/icon.png">

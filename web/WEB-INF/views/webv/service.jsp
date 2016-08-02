@@ -6,10 +6,10 @@
 <head>
     <meta charset="utf-8">
     <title>${emp.mm_emp_nickname}花木苗木求购信息、供应信息、金牌榜和服务中心，具备一键拨号、一键导航、一键分享功能。整合全国苗木行业资源，服务于全国苗木行业发展，受到全国苗木行业人士好评.以苗木行业供求信息为基础，搭建起农村信息及电商为一体的网络平台</title>
-    <meta name="Keywords" content="苗联通,花木,花草,苗联通,白蜡,园林,绿化,苗木,花草,草坪"/>
+    <meta name="Keywords" content="苗连通,花木,花草,苗连通,白蜡,园林,绿化,苗木,花草,草坪"/>
     <meta name="Description" content="花木苗木求购信息、供应信息、金牌榜和服务中心，具备一键拨号、一键导航、一键分享功能。整合全国苗木行业资源，服务于全国苗木行业发展，受到全国苗木行业人士好评.以苗木行业供求信息为基础，搭建起农村信息及电商为一体的网络平台"/>
-    <meta name="author" content="苗联通"/>
-    <meta name="Copyright" content="苗联通版权所有"/>
+    <meta name="author" content="苗连通"/>
+    <meta name="Copyright" content="苗连通版权所有"/>
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/img/icon.png">

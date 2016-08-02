@@ -81,16 +81,16 @@
         <div class="ptb20 clearfix">
             <div class="foot-qr clearfix">
                 <div class="qrcode">
-                    <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗联通">
+                    <img src="../hmt/images/category-vegetable/topbar-hn-app.png" alt="手机苗连通">
 
                     <p>
-                        <span>手机苗联通</span><span>安卓版扫描下载APP</span></p>
+                        <span>手机苗连通</span><span>安卓版扫描下载APP</span></p>
                 </div>
                 <div class="qrcode">
-                    <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗联通官方微信">
+                    <img src="../hmt/images/category-vegetable/topbar-hn-weixin.png" alt="苗连通官方微信">
 
                     <p>
-                        <span>扫码关注</span><span>苗联通官方微信</span></p>
+                        <span>扫码关注</span><span>苗连通官方微信</span></p>
                 </div>
             </div>
             <ul class="foot-nav clearfix">

@@ -203,7 +203,7 @@ function eventBind() {
         window._bd_share_config = {
             common: {
                 bdText: init.shopName,
-                bdDesc: "我在中国苗联通网发现了农产品批发的好货源【" + init.shopName + "】，快来看看吧",
+                bdDesc: "我在中国苗连通网发现了农产品批发的好货源【" + init.shopName + "】，快来看看吧",
                 bdUrl: init.shopUrl + "/",
                 bdPic: ''
             },

@@ -280,7 +280,7 @@ public class AppRecordService implements ListService ,SaveService, FindService{
             }
         }
         //发通知 给所有用户 有新消息
-//        BaiduPush.PushMsgToAllMsg("苗联通有新的消息", "新的求购供应信息" ,"");
+//        BaiduPush.PushMsgToAllMsg("苗连通有新的消息", "新的求购供应信息" ,"");
         return vo;
     }
 

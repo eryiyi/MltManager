@@ -10,10 +10,10 @@
     <meta name="renderer" content="webkit">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
-    <title>苗联通|会员登录</title>
-    <meta name="keywords" content="苗联通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
+    <title>苗连通|会员登录</title>
+    <meta name="keywords" content="苗连通,苗木,花木,苗木交易,花木求购,苗木求购,花木资讯,花木论坛,花木销售,苗木销售,苗木资讯,绿化苗木">
     <meta name="Description"
-          content=" 苗联通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
+          content=" 苗连通是惠民县本地第一苗木供求信息平台、信息通讯平台，突破了苗木大市场、绿化工程公司、经纪人、苗农之间的信息壁垒，让市场订单苗木不愁买，苗农种植苗木不愁卖！为本地苗木行业发展助力，让经纪人足不出户，随时随地做生意！让苗农及时了解市场行情，苗木卖价更高更容易！">
     <link href="../hmt/css/common/index-type.css" rel="stylesheet" type="text/css"/>
     <link href="../hmt/css/common/common.css" rel="stylesheet" type="text/css"/>
     <link href="../hmt/css/common/base.css" rel="stylesheet" type="text/css"/>
@@ -44,7 +44,7 @@
     <div class="logo-box fl">
         <div class="logo fl">
             <a href="/hmtIndex/toIndex.do?page=1"><img src="../hmt/images/category-vegetable/logo_type.png"
-                                                       alt="苗联通信息平台" width="205px" height="40px"></a>
+                                                       alt="苗连通信息平台" width="205px" height="40px"></a>
         </div>
         <div class="logotext lh22 fl ml10">
             <div class="fs18">用户登录</div>
