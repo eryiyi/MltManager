@@ -96,5 +96,8 @@
         <permission id="HOT_AREA_ADD_MANA" name="添加热门县区"/>
         <permission id="HOT_AREA_LIST_MANA" name="热门城市县区"/>
     </group>
-
+    <group id="HOT_WORD_MANAGE" name="搜索热门词汇">
+        <permission id="HOT_WORD_ADD_MANA" name="添加热门词汇"/>
+        <permission id="HOT_WORD_LIST_MANA" name="热门词汇列表"/>
+    </group>
 </permissions>

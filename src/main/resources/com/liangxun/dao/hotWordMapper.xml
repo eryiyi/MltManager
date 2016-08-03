@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liangxunwang.unimanager.dao.HotWordObjDao">
+    <resultMap id="hotWord" type="com.liangxunwang.unimanager.model.HotWordObj">
+        <id column="mm_hot_word_id" property="mm_hot_word_id"/>
+        <result column="mm_hot_word_title" property="mm_hot_word_title"/>
+        <result column="mm_hot_num" property="mm_hot_num"/>
+    </resultMap>
+
+    <select id="lists" resultMap="hotWord">
+        SELECT * from mm_hot_word
+        WHERE 1=1
+        <if test="mm_hot_word_id != null and mm_hot_word_id != ''">
+            AND mm_hot_word_id = #{mm_hot_word_id}
+        </if>
+        ORDER BY mm_hot_num DESC
+    </select>
+
+    <insert id="save" parameterType="com.liangxunwang.unimanager.model.HotWordObj">
+        INSERT INTO mm_hot_word(mm_hot_word_id, mm_hot_word_title, mm_hot_num)
+        VALUES (#{mm_hot_word_id}, #{mm_hot_word_title}, #{mm_hot_num})
+    </insert>
+
+    <delete id="delete" parameterType="String">
+        DELETE FROM mm_hot_word where mm_hot_word_id = #{mm_hot_word_id}
+    </delete>
+
+</mapper>

@@ -571,6 +571,25 @@
                     </li>
                 </c:if>
 
+                <c:if test="${um:permission('HOT_WORD_ADD_MANA', sessionScope.powers) || um:permission('HOT_WORD_LIST_MANA', sessionScope.powers)}">
+                    <li class="dropdown">
+                        <a href="javascript:void (0);" class="dropdown-toggle">
+                            <i class="glyphicon glyphicon-screenshot"></i>
+                            <span>搜索热门词汇</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <c:if test="${um:permission('HOT_WORD_ADD_MANA', sessionScope.powers)}">
+                                <li><a href="javascript:void(0);"
+                                       onclick="toPage('/hotWordController/toAdd','')">添加热门词汇</a></li>
+                            </c:if>
+                            <c:if test="${um:permission('HOT_WORD_LIST_MANA', sessionScope.powers)}">
+                                <li><a href="javascript:void(0);"
+                                       onclick="toPage('/hotWordController/list','1')">热门词汇列表</a></li>
+                            </c:if>
+                        </ul>
+                    </li>
+                </c:if>
+
             </ul>
         </div>
         <!--Start Content-->
