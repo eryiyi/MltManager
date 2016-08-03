@@ -100,4 +100,7 @@
         <permission id="HOT_WORD_ADD_MANA" name="添加热门词汇"/>
         <permission id="HOT_WORD_LIST_MANA" name="热门词汇列表"/>
     </group>
+    <group id="MAANGER_AD_MANAGER" name="浮动通知管理">
+        <permission id="ADD_MAANGER_AD_LIST" name="浮动通知管理"/>
+    </group>
 </permissions>

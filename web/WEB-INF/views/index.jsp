@@ -590,6 +590,20 @@
                     </li>
                 </c:if>
 
+                <c:if test="${um:permission('ADD_MAANGER_AD_LIST', sessionScope.powers)}">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle">
+                            <i class="fa fa-picture-o"></i>
+                            <span class="hidden-xs">浮动通知管理</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <c:if test="${um:permission('ADD_MAANGER_AD_LIST', sessionScope.powers)}">
+                                <li><a href="javascript:void(0);" onclick="toPage('/msgAdController/list','1')">浮动通知管理</a></li>
+                            </c:if>
+                        </ul>
+                    </li>
+                </c:if>
+
             </ul>
         </div>
         <!--Start Content-->

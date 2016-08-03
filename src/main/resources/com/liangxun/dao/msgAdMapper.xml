@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liangxunwang.unimanager.dao.MsgAdDao">
+    <resultMap id="msgAdObj" type="com.liangxunwang.unimanager.model.MsgAd">
+        <id column="msg_ad_no" property="msg_ad_no"/>
+        <result column="msg_ad_title" property="msg_ad_title"/>
+        <result column="numbert" property="numbert"/>
+    </resultMap>
+
+    <select id="lists" resultMap="msgAdObj">
+        SELECT sn.* from manager_msg_ad sn
+        WHERE 1=1
+        ORDER BY sn.numbert DESC
+    </select>
+
+    <insert id="save" parameterType="com.liangxunwang.unimanager.model.MsgAd">
+        INSERT INTO manager_msg_ad(msg_ad_no, msg_ad_title, numbert)
+        VALUES (#{msg_ad_no}, #{msg_ad_title}, #{numbert})
+    </insert>
+
+
+    <delete id="delete" parameterType="String">
+        DELETE FROM manager_msg_ad where msg_ad_no = #{msg_ad_no}
+    </delete>
+
+    <select id="findById" parameterType="String" resultMap="msgAdObj">
+        SELECT * FROM manager_msg_ad where msg_ad_no=#{msg_ad_no}
+    </select>
+
+    <update id="update" parameterType="com.liangxunwang.unimanager.model.MsgAd">
+        UPDATE manager_msg_ad SET msg_ad_title=#{msg_ad_title}
+         WHERE msg_ad_no=#{msg_ad_no}
+    </update>
+</mapper>

@@ -166,6 +166,7 @@ public class ControllerInterceptor extends ControllerConstants implements Handle
                         "|(^/orderSaveWx\\.do$)"+
                         "|(^/orderSaveWxFk\\.do$)"+
                         "|(^/getHotWord\\.do$)"+
+                        "|(^/listsMsgAds\\.do$)"+
 
                         "|(^/memberLogin\\.do$)"
 
