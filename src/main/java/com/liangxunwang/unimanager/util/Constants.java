@@ -5,6 +5,7 @@ package com.liangxunwang.unimanager.util;
  */
 public class Constants {
         public static final String URL = "http://smilekyle.xicp.net:42765/";
+        public static final String DOWNLOAD_URL = URL + "html/MltApp.apk";
 //        public static final String URL = "http://www.zhlmlt.cn/";
 
         public static final String QINIU_URL = "http://7xqzj9.com1.z0.glb.clouddn.com/";

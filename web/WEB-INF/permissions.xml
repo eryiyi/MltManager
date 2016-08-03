@@ -103,4 +103,7 @@
     <group id="MAANGER_AD_MANAGER" name="浮动通知管理">
         <permission id="ADD_MAANGER_AD_LIST" name="浮动通知管理"/>
     </group>
+    <group id="MAANGER_VERSION_CODE_MANAGER" name="版本管理">
+        <permission id="UPDATE_VERSION_CODE_MAANGER_AD_LIST" name="版本管理"/>
+    </group>
 </permissions>
