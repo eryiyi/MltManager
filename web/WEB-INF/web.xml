@@ -72,4 +72,10 @@
         <dispatcher>ERROR</dispatcher>
     </filter-mapping>
     <!-- log4j2-end -->
+
+    <context-param>
+        <param-name>webAppRootKey</param-name>
+        <param-value>app.root</param-value>
+    </context-param>
+
 </web-app>

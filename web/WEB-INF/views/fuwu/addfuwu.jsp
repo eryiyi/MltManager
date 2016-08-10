@@ -355,7 +355,10 @@
         rotateEnable: true,
         dragEnable: true,
         zoomEnable: true,
-        zooms: [3, 18]
+        zooms: [3, 18],
+        resizeEnable: true,
+        zoom:11,
+        center: [117.488969, 37.410742]
         //二维地图显示视口
 //    view: new AMap.View2D({
 //      center:new AMap.LngLat(118.783897, 32.058875),//地图中心点
